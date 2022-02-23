@@ -2,6 +2,7 @@
 
 # My main projets:
 
+[forum](https://github.com/ferveks3509/job4j_forum) - веб-приложение(Spring Boot, Spring MVC, Spring Data JPA, Spring Security, PostgreSQL)
 [Dream_job](https://github.com/ferveks3509/job4j_dreamjob) - веб-приложение(JDBC, PostgreSQL, Servlet, JSP, Tomcat)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ferveks3509&layout=compact)](https://github.com/ShamRail/github-readme-stats)
