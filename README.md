@@ -2,6 +2,7 @@
 
 # My main projets:
 
+* [chat](https://github.com/ferveks3509/chat) - веб-приложение(Spring Boot, REST api, Spring Data JPA, PostgreSQL)
 * [forum](https://github.com/ferveks3509/job4j_forum) - веб-приложение(Spring Boot, Spring MVC, Spring Data JPA, Spring Security, PostgreSQL)
 * [Dream_job](https://github.com/ferveks3509/job4j_dreamjob) - веб-приложение(JDBC, PostgreSQL, Servlet, JSP, Tomcat)
 
