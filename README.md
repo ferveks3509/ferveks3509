@@ -2,6 +2,7 @@
 
 # My main projets:
 
+* [magicSquare](https://github.com/ferveks3509/magicSquare) - веб-приложение(Java 11, Spring Boot, Sping MVC, Spring Data, Hibernate, HSQLDB, ThymeLeaf;)
 * [passport_service](https://github.com/ferveks3509/passport) - веб-приложение(Spring Boot, REST api, Spring Data JPA, Hibernate, PostgreSQL, kafka)
 * [chat](https://github.com/ferveks3509/chat) - веб-приложение(Spring Boot, REST api, Spring Data JPA, Hibernate, PostgreSQL)
 * [forum](https://github.com/ferveks3509/job4j_forum) - веб-приложение(Spring Boot, Spring MVC, Spring Data JPA, Spring Security, Hibernate, PostgreSQL)
