@@ -9,7 +9,7 @@
 * [car_accident](https://github.com/ferveks3509/car_accident) - веб-приложение(Spring core, Spring MVC, Spring Data JPA, Spring Security, Hibernate, PostgreSQL)
 * [Dream_job](https://github.com/ferveks3509/job4j_dreamjob) - веб-приложение(JDBC, PostgreSQL, Servlet, JSP, Tomcat)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ferveks3509&layout=compact)](https://github.com/ShamRail/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ferveks3509&layout=compact)
 ![Github stats](https://github-readme-stats.vercel.app/api?username=ferveks3509&hide=stars,prs,issues,contribs)
 
 ![alt text](https://img.shields.io/badge/java-%3E%3D8-orange)
