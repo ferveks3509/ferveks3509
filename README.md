@@ -15,4 +15,4 @@
 ![alt text](https://img.shields.io/badge/java-%3E%3D8-orange)
 ![alt text](https://img.shields.io/badge/maven-3-orange)
 ![alt text](https://img.shields.io/badge/PostgresSQL-%3E%3D9-orange)
-![alt text](https://img.shields.io/badge/Junit-4-orange)
+![alt text](https://img.shields.io/badge/Junit-5-orange)
