@@ -8,6 +8,7 @@
 * [forum](https://github.com/ferveks3509/job4j_forum) - веб-приложение(Spring Boot, Spring MVC, Spring Data JPA, Spring Security, Hibernate, PostgreSQL)
 * [car_accident](https://github.com/ferveks3509/car_accident) - веб-приложение(Spring core, Spring MVC, Spring Data JPA, Spring Security, Hibernate, PostgreSQL)
 * [Dream_job](https://github.com/ferveks3509/job4j_dreamjob) - веб-приложение(JDBC, PostgreSQL, Servlet, JSP, Tomcat)
+* [grabber](https://github.com/ferveks3509/job4j_grabber) - парсер вакансий(Java 14, quartz-scheduler, log4j, slf4j, postgresql, jsoup)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ferveks3509&layout=compact)
 ![Github stats](https://github-readme-stats.vercel.app/api?username=ferveks3509&hide=stars,prs,issues,contribs)
