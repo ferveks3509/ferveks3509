@@ -3,7 +3,6 @@
 # My main projets:
 
 * [order](https://github.com/ferveks3509/job4j_order) - Микросервисы(Spring (Boot,Data) REST api, kafka, PostgreSQL)
-* [passport_service](https://github.com/ferveks3509/passport) -  Микросервисы(Spring (Boot,Data) REST api, PostgreSQL, kafka)
 * [forum](https://github.com/ferveks3509/job4j_forum) - веб-приложение(Spring Boot,MVC,Data,Security) Hibernate, PostgreSQL)
 * [car_accident](https://github.com/ferveks3509/car_accidents_new) - веб-приложение(Spring Boot,MVC,Data,Security) Hibernate, PostgreSQL)
 * [dream_job](https://github.com/ferveks3509/dreamjob) - веб-приложение(Java 18, Spring(Boot, MVC, Security), PostgreSQL, sql2o, Thymeleaf)
